@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.quickreach.wise",
+    "sha256_cert_fingerprints":
+    ["78:66:9F:D2:E4:EF:6D:FE:5C:B7:B0:34:F5:9C:92:0B:DD:3D:6A:41:17:C5:8C:2E:4F:FF:02:CA:4D:EF:4C:27"]
+  }
+}]
