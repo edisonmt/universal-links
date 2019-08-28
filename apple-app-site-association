@@ -4,7 +4,10 @@
 		"details": [
 			{
 				"appID": "R52X6F454N.com.quickreach.mxp",
-				"paths": [ "*"]
+				"paths": [ 
+					"/app/*",
+					"/mobile/*"
+					]
 			}
 		]
 	}
