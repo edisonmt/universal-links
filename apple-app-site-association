@@ -1,8 +1,13 @@
 {
     "webcredentials": {
-        "apps": [
-            "FWHDY8MCBN.com.appetiser.mucudu",
-            "96G6B9A69Q.com.appetiser.head-out-dev"
+        "apps": [],
+        "details": [
+            {
+                "appID": "96G6B9A69Q.com.appetiser.head-out-dev"
+            },
+            {
+                "appID": "FWHDY8MCBN.com.appetiser.mucudu"                
+            }
         ]
     },
     "applinks": {
