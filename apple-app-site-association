@@ -1,14 +1,8 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "284CL458KB.com.magsaysay.wise",
-				"paths": [ 
-					"/app/*",
-					"/mobile/*"
-					]
-			}
-		]
-	}
+    "webcredentials": {
+        "apps": [
+            "FWHDY8MCBN.com.appetiser.mucudu",
+            "96G6B9A69Q.com.appetiser.head-out-dev"
+        ]
+    }
 }
