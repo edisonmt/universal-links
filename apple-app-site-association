@@ -4,5 +4,24 @@
             "FWHDY8MCBN.com.appetiser.mucudu",
             "96G6B9A69Q.com.appetiser.head-out-dev"
         ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "96G6B9A69Q.com.appetiser.head-out-dev",
+                "paths": [
+                    "NOT /_/*",
+                    "/*"
+                ]
+            },
+            {
+                "appID": "FWHDY8MCBN.com.appetiser.mucudu",
+                "paths": [
+                    "NOT /_/*",
+                    "/*"
+                ]
+            }
+        ]
     }
 }
